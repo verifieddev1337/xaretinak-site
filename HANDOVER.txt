@@ -1,0 +1,85 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  HARETINA KUKURI — WEBSITE HANDOVER NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SITE URL
+  Preview link shared separately.
+  Final URL confirmed once your domain is connected.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  NETLIFY ACCOUNT — FIRST-TIME SETUP (do this once)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Create a free account at netlify.com if you don't
+     have one already.
+
+  2. From your dashboard click "Add new site" →
+     "Deploy manually" → drag and drop the folder
+     your developer provides.
+
+  3. Your site will be live on a Netlify preview URL
+     (e.g. yoursite.netlify.app) within seconds.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  AUTOMATIC REBUILDS — KEEP CONTENT FRESH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Your articles (Substack) and videos (YouTube) are pulled
+  in at build time. To keep them up to date the site needs
+  to rebuild periodically. Enable scheduled builds:
+
+  Site Settings → Build & deploy → Scheduled builds
+  → "Enable scheduled builds" → set to every 12 hours.
+
+  This is FREE on Netlify's free tier and means new
+  articles and videos appear on the site automatically
+  within 12 hours of publishing, with no action from you.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CONTACT FORM — RECEIVE MESSAGES BY EMAIL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Messages sent via the contact form are captured by
+  Netlify. To receive them in your inbox:
+
+  Site Settings → Integrations → Form notifications
+  → Add notification → Email notification
+  → Enter your email address → Save.
+
+  You will receive an email for every new enquiry.
+  All submissions are also stored under:
+  Site dashboard → Forms → "contact"
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  DOMAIN (when ready)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Site Settings → Domain management → Add custom domain.
+  Your developer can assist with DNS configuration.
+  HTTPS is set up automatically by Netlify at no cost.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PAGES ON THE SITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  /             Homepage
+  /about        About
+  /services     Services
+  /articles     All articles (pulls from Substack)
+  /contact      Contact form + Calendly booking
+  /privacy      Privacy Policy
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  FOR CHANGES OR SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Contact your developer for any changes to content,
+  layout, or new features.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
