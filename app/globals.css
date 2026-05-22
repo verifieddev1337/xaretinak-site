@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0B1929;
+  --foreground: #E8E0D4;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .tracking-brand {
+    letter-spacing: 0.22em;
+  }
+  .tracking-label {
+    letter-spacing: 0.18em;
+  }
+}
